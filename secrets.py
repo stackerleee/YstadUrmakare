@@ -1,0 +1,2 @@
+SSID = "Tele2Internet-4C1A9"
+PASSWORD = "959E7E9Q443"
